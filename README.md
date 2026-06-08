@@ -120,11 +120,8 @@ Podman
 به شاخه اصلی Push کنید (git push origin feature/your-feature)
 Pull Request باز کنید
 
-مجوز
-این پروژه تحت مجوز MIT منتشر شده است.
 تماس
-محمد مهدی رسول امینی📧 ایمیل: student@ut.ac.ir🔗 لینکدین: linkedin.com/in/yourprofile🐦 توییتر: @yourhandle
-
+محمد مهدی رسول امینی📧 ایمیل: mohamadmahdiamini122@gmail.com🔗 لینکدین: https://www.linkedin.com/in/mohammadmahdirasoulamini/🐦
   
     
   
