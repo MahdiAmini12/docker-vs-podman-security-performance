@@ -27,7 +27,6 @@ This project compares **Docker** and **Podman** in terms of performance and secu
 
 ## 📊 Key Results
 
-(اینجا بعداً جدول یا چارت نتایج واقعی‌ت رو اضافه می‌کنیم)
 
 - **CPU Performance**: Docker slightly better in some tests
 - **Memory Usage**: Podman generally lighter
